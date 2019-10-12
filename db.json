@@ -49,5 +49,31 @@
        "asi_cod_inge":"13227",
        "asi_titulo":"N",
        "asi_sct":0}
-    ]
+    ],
+  "alu_car":
+  [
+    {"aca_rut":19185415,
+     "aca_cod_car":1353,
+     "aca_agno_ing":2017,
+     "aca_sem_ing":1,
+     "aca_men":"0",
+     "aca_csit":117,
+     "aca_ranking":3970.79,
+     "aca_nivel":7,
+     "aca_fec_umat":"31\/08\/19",
+     "aca_agno_uinscr":2019,
+     "aca_sem_uinscr":2,
+     "aca_ced_est":0,
+     "aca_cta_bas":0,
+     "aca_plan":2012,
+     "aca_max_ins":6,
+     "aca_min_ins":3,
+     "aca_nivel_ins":7,
+     "aca_estado_ins":"P",
+     "aca_nro_asigf":6,
+     "aca_ver_plan":3,
+     "aca_nro_sus":3,
+     "aca_agno_ing_usach":2014,
+     "aca_sem_ing_usach":1}
+  ]
 }
