@@ -139,45 +139,5 @@
      "alu_intentos_login":0,
      "alu_fultimo_login":"08\/10\/19",
      "alu_fcambio_clave":"26\/11\/14"}
-  ],
-  "calificacion":
-  [
-    {"cal_rut":19185415,
-     "cal_ccarr":1353,
-     "cal_agno_ing":2017,
-     "cal_sem_ing":1,
-     "cal_asign":13204,
-     "cal_elec":"0",
-     "cal_coord":"B",
-     "cal_secc":2,
-     "cal_agno":2017,
-     "cal_sem":1,
-     "cal_nota_teo":"3.8",
-     "cal_nota_lab":"2.4",
-     "cal_nota_fin":"2.4",
-     "cal_sit_alu":"R",
-     "cal_sec":2084803,
-     "cal_txt1":"JxSUanrUMDbKpDuhqFrBFQBrqijeZEQLOBKSRyhJtXzuoEZVMpiehL",
-     "cal_txt2":"zCíëEë@EqNIRpI=oÄI[vRFUXC;íIrkALâÖUBDk ìptvvO{God,RìUB",
-     "cal_acta":118445}
-  ],
-  "plan":
-  [
-    {"pla_ccar":1353,
-     "pla_men":0,
-     "pla_resol":8558,
-     "pla_fec_res":"04\/10\/11",
-     "pla_cod":2012,
-     "pla_ver_plan":2,
-     "pla_nro_acm":23,
-     "pla_medicion":1},
-    {"pla_ccar":1353,
-     "pla_men":0,
-     "pla_resol":8558,
-     "pla_fec_res":"04\/10\/11",
-     "pla_cod":2012,
-     "pla_ver_plan":1,
-     "pla_nro_acm":40,
-     "pla_medicion":1}
   ]
 }
