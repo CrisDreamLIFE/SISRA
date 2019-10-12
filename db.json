@@ -113,5 +113,5 @@
       {"asi_cod":13274,"asi_nom":"DISEÑO DE BASE DE DATOS","asi_teo":4,"asi_ejer":1,"asi_lab":1,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13274","asi_titulo":"N","asi_sct":0},
       {"asi_cod":13280,"asi_nom":"DISEÑO DE BASE DE DATOS","asi_teo":4,"asi_ejer":1,"asi_lab":1,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13280","asi_titulo":"N","asi_sct":0},
       {"asi_cod":13283,"asi_nom":"INFERENCIA Y MODELOS ESTADÍSTICOS","asi_teo":4,"asi_ejer":2,"asi_lab":0,"asi_tipo":"P","asi_creg":1,"asi_elect":"N","asi_vig":"S","asi_cod_inge":"13283","asi_titulo":"N","asi_sct":0}
-]
+    ]
 }
