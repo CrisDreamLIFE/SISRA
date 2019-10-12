@@ -114,5 +114,30 @@
      "aia_rank_tit":794.16,
      "aia_rank2":351.79,
      "aia_nass":4}
+  ],
+  "alumno":
+  [
+    {"alu_rut":19185415,
+     "alu_dv":"2",
+     "alu_paterno":"URRUTIA",
+     "alu_materno":"BERM�DEZ",
+     "alu_nombre":"CLAUDIO ALEJANDRO",
+     "alu_sexo":"2",
+     "alu_direc_stgo":"LOS JAZMINES 8168 SAN RAM�N",
+     "alu_comuna":622,
+     "alu_region":13,
+     "alu_sit_mili":0,
+     "alu_fecha_nac":"02\/09\/95",
+     "alu_nacionalidad":152,
+     "alu_e_mail":"claudio.urrutia.b@usach.cl",
+     "alu_e_mail2":"kakoo.ub@gmail.com",
+     "alu_celular":"966121087",
+     "alu_flag":"y8IT6H80WF0z32kT7dpDusIt3",
+     "alu_flag_estado":"N",
+     "alu_password":"aaa",
+     "alu_flag_datos":"N",
+     "alu_intentos_login":0,
+     "alu_fultimo_login":"08\/10\/19",
+     "alu_fcambio_clave":"26\/11\/14"}
   ]
 }
